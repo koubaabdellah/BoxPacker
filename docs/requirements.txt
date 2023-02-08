@@ -1,3 +1,4 @@
 # RTD pins these by default to ancient versions
 sphinx ~= 5.0
 sphinx-rtd-theme ~= 1.0
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
